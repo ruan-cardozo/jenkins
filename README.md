@@ -1,3 +1,7 @@
+# Introdução
+
+Pipeline de exemplo usando jenkins para a faculdade
+
 # Passo 1
 
 Buildar o dockerfile, que estava disponivel nas documentações do Jenkins
